@@ -1,9 +1,9 @@
 # Credit_Risk_Analysis
-Mod 17 Machine Learning
+Supervised Machine Learning Project
 
 
 ## Overview of Analysis
-In this module we are using multiple different machine learning models to analyze credit risk based on a number of factors. The data used to train these models comes from LendingClub, a peer-to-peer lending services company.
+For this project, I am using multiple different machine learning models to analyze credit risk based on a number of factors. The data used to train these models comes from LendingClub, a peer-to-peer lending services company.
 
 ## Results 
 
